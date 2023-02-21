@@ -1,6 +1,9 @@
 # Penn-Hackathon-2023
+Team Members: Martin Eckardt, Brian Mulyadi, Jacob Everly, Ansen Goh, Samhitha Tarra
+
 
 Code for Penn Hackathon project "Trac3y, aiming to validate supply chain requirements and streamline customer/shipper relations.
+
 
 # Link to Trac3y Pitch Deck
 https://bit.ly/trac3y_pitch
